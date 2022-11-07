@@ -1,4 +1,4 @@
-MyToken="5523001812:AAHKOGVxTvcgY0WlhBIVI4Na7uK_arNcLlc"
+MyToken="---"
 chatID="467782812"
 Message="Xen:%0A -Tarefa: "
 Message+=$1
